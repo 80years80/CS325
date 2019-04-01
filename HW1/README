@@ -1,0 +1,3 @@
+use g++ Insert.cpp -o InsertSort
+
+use MergeSort.cpp -o MergeSort
